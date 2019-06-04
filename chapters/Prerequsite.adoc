@@ -1,0 +1,5 @@
+== Prerequisite
+
+* Ruby: Ruby installer for window. Refer to https://rubyinstaller.org/.
+ * Gem-Package manager for ruby. Installed automatically while installing Ruby.
+ 
