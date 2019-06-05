@@ -1,5 +1,8 @@
 == Prerequisite
 
 * Ruby: Ruby installer for window. Refer to https://rubyinstaller.org/.
- * Gem-Package manager for ruby. Installed automatically while installing Ruby.
- 
+ * Asciidoctor for HTML preiview and generating PDF.
+ * PDF Generator
+ * Git is installed. Refer to  https://git-scm.com/download/ for  downloading and installing git
+ * Basic skill with window terminal
+ * Visual Studio Code is installed. Refer to  https://code.visualstudio.com/Download for downloading and installing git. 

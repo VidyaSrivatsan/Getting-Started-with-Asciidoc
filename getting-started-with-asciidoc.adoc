@@ -1,3 +1,4 @@
+:imagesdir: ./Images
 <<<
 :sectnums:
 include::chapters/Introduction.adoc[]
