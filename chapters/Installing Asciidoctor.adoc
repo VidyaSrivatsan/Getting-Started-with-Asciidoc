@@ -8,6 +8,6 @@ Follow these steps to insall Ruby:
 . Go to https://rubyinstaller.org/ ad click the Download.
 . Download the latest version.
 
-image::..\..\Images\License_Agreement.JPG[License Agreement]
+image::..\Images\License_Agreement.JPG[License Agreement]
 
 . De-select the *Run 'ridk install' to setup MSYS2 and development toolchain* and then click *Finish*. 
