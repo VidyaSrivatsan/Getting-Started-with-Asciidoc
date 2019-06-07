@@ -1,9 +1,6 @@
 :imagesdir: ./Images
-
 :doctype: book
-
 = Getting Started with Asciidoc
-
 
 <<<
 :sectnums:
