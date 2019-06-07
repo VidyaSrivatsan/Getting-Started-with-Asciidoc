@@ -1,6 +1,21 @@
 :imagesdir: ./Images
+
+:doctype: book
+
+= Getting Started with Asciidoc
 <<<
 :sectnums:
+include::chapters/Prerequsite.adoc[]
+
 include::chapters/Introduction.adoc[]
 
-include::chapters/Prerequsite.adoc[]
+include::chapters/Installing_Asciidoctor.adoc[]
+
+include::chapters/Installing_Visual_Studio_Code.adoc[]
+
+include::chapters/Adding_Extension_in_VSCode.adoc[]
+
+include::chapters/Generating_HTML_and_PDF.adoc[]
+
+
+
