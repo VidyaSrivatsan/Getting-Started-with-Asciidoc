@@ -4,9 +4,10 @@
 
 <<<
 :sectnums:
-include::chapters/Prerequsite.adoc[]
 
 include::chapters/Introduction.adoc[]
+
+include::chapters/Prerequsite.adoc[]
 
 include::chapters/Installing_Asciidoctor.adoc[]
 
