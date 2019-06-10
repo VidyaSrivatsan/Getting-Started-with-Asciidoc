@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/VidyaSrivatsan/Getting-Sta
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Asciidoc
 
 AsciiDoc is a text document format for writing notes, documentation, articles. AsciiDoc files can be translated to many formats including HTML, PDF, EPUB, man page.
 
